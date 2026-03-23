@@ -3,7 +3,7 @@
 > 适用方向：密集星场处理、源探测、去混叠（deblending）、星表构建  
 > 论文方法：**StarNet**  
 > 配套代码仓库：`Runjing-Liu120/DeblendingStarfields`
-
+**注：笔记中的图片编号与论文相同**
 ---
 
 ## 目录
